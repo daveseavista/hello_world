@@ -3,6 +3,7 @@ public class myClass {
 Public Integer  GetVal(Integer X,Integer Y) {
 
 	Return X+Y +1;
+//this has been added
 }
 
 
