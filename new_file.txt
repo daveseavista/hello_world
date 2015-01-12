@@ -2,7 +2,7 @@ public class myClass {
 
 Public Integer  GetVal(Integer X,Integer Y) {
 
-	Return X+Y;
+	Return X+Y +1;
 }
 
 
